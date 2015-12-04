@@ -1,4 +1,4 @@
-# The haos_bat repo
+# the haos_bat repo
 
 A collection of batch files.
 
