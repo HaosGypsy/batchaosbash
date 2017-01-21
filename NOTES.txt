@@ -7,7 +7,7 @@ bitsadmin /transfer t https://raw.githubusercontent.com/haosgypsy/bathaos/master
 
 Linux:
 ```
-
+bash <(curl -s curl https://raw.githubusercontent.com/haosgypsy/batchaosbash/master/bash/hello_world_bash.bash)
 ```
 
 Useful for this project :
