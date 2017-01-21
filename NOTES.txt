@@ -1,12 +1,22 @@
-Useful for other project :
-https://www.surveymonkey.com
-https://www.google.co.kr/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=script%20download%20and%20install%20portableapp%20files
-http://portableapps.com/apps/utilities/toucan
-http://portableapps.com/apps/utilities/ghostscript_portable
+Run script from URL:
 
+Windows:
+```
+bitsadmin /transfer t https://raw.githubusercontent.com/haosgypsy/bathaos/master/bats/hello_bat_script_world.bat %temp%\x.bat&%temp%\x.bat
+```
+
+Linux:
+```
+
+```
 
 Useful for this project :
 
 Problems with bitsadmin: (duh...)
 http://stackoverflow.com/questions/1327431/how-do-i-escape-ampersands-in-batch-files
 
+Useful for other project :
+https://www.surveymonkey.com
+https://www.google.co.kr/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=script%20download%20and%20install%20portableapp%20files
+http://portableapps.com/apps/utilities/toucan
+http://portableapps.com/apps/utilities/ghostscript_portable
